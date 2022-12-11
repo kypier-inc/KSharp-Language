@@ -12,4 +12,5 @@ Linux :heavy_check_mark:
 
 To Learn More About this programming language
 
-head to Wiki
+head to [Wiki](https://github.com/syllicasoftware/KSharp-Language/wiki)
+
