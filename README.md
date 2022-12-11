@@ -5,7 +5,9 @@ Powerful upcoming programming language easy learn & use
 Supported Platforms :
 
 Windows :heavy_check_mark:
+<br />
 MacOS  ✖️
+<br />
 Linux :heavy_check_mark:
 
 To Learn More About this programming language
