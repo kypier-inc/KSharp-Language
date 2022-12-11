@@ -4,7 +4,7 @@ Powerful upcoming programming language easy learn & use
 
 Supported Platforms :
 
-Windows :heavy_cross_mark:
+Windows ✖️
 <br />
 MacOS  ✖️
 <br />
