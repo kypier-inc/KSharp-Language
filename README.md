@@ -1,6 +1,6 @@
 # K# Programming Language (KSharp)
 
-Powerful upcoming programming language easy learn & use
+Powerful upcoming programming language easy to learn & use
 
 Supported Platforms :
 
