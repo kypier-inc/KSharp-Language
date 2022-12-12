@@ -8,7 +8,7 @@ Windows ✖️
 <br />
 MacOS  ✖️
 <br />
-Linux :heavy_check_mark:
+Linux ✔️
 
 To Learn More About this programming language
 
