@@ -1,0 +1,30 @@
+! Declare New Variable
+
+var number = 0
+var numfloat = 0.0
+var text = "any text here"
+
+! If Condition
+
+if ( number < 5 ) then
+  printk("Great") ! Print text out
+  printk(numfloat) ! print variable out
+end
+
+! While Loop
+
+while(number < 5) then
+    printk("Enter number:")
+    var numfloat = input_int() ! take input as integer and save it in numfloat
+    var text = input() ! take input as string
+    var sum = sum + number
+    var number = number + 1
+end
+
+func example() -> printk("done") ! when you want it to do one statement
+
+func exampl() ! Multiline function
+  printk("1")
+  printk("2")
+  printk("3")
+end
