@@ -26,5 +26,10 @@ v0.1.0
 v0.2.0
 <br />
 --- [Download Here](https://github.com/syllicasoftware/KSharp-Language/releases/download/v0.2.0/KSharp-0.2.0.tar.gz) ---
+<br />
+
+v0.3.0
+<br />
+--- [Download Here](https://github.com/syllicasoftware/KSharp-Language/releases/download/v0.3.0/KSharp-0.3.0.tar.gz) ---
 
 
