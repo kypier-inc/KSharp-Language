@@ -28,3 +28,6 @@ func exampl() ! Multiline function
   printk("2")
   printk("3")
 end
+
+weblib_urlopen("https://example.com") ! Open Url
+weblib_urlretrieve("https://example.com/favicon.ico","favicon.ico") ! Retrieve file from url
