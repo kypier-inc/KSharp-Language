@@ -20,8 +20,8 @@ end
 while(number < 5) then
     printk("Enter number:")
     
-    ! take input as integer and save it in numfloat
-    var number = input_int()
+    ! take input as float and save it in numfloat
+    var numfloat = input_float()
     
     ! take input as string
     var text = input()
