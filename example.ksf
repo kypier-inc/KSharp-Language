@@ -2,32 +2,46 @@
 
 var number = 0
 var numfloat = 0.0
+var sum = 0
 var text = "any text here"
 
 ! If Condition
 
 if ( number < 5 ) then
-  printk("Great") ! Print text out
-  printk(numfloat) ! print variable out
+  ! Print text out
+  printk("Great")
+  
+  ! print variable out
+  printk(numfloat)
 end
 
 ! While Loop
 
 while(number < 5) then
     printk("Enter number:")
-    var numfloat = input_int() ! take input as integer and save it in numfloat
-    var text = input() ! take input as string
+    
+    ! take input as integer and save it in numfloat
+    var number = input_int()
+    
+    ! take input as string
+    var text = input()
+    
     var sum = sum + number
     var number = number + 1
 end
 
-func example() -> printk("done") ! when you want it to do one statement
+! when you want it to do one statement
+func example() -> printk("done") 
 
-func exampl() ! Multiline function
+! Multiline function
+func exampl()
   printk("1")
   printk("2")
   printk("3")
 end
 
-weblib_urlopen("https://example.com") ! Open Url
-weblib_urlretrieve("https://example.com/favicon.ico","favicon.ico") ! Retrieve file from url
+! Open Url
+weblib_urlopen("https://example.com")
+
+! Retrieve file from url
+weblib_urlretrieve("https://example.com/favicon.ico","favicon.ico")
