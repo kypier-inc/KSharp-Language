@@ -20,6 +20,8 @@ Download For Windows : [Download Here](https://github.com/kypier-inc/KSharp-Lang
 
 Download For Linux : [Download Here](https://github.com/kypier-inc/KSharp-Language/releases/download/v0.3.2/KSharp-0.3.2.tar.gz)
 
+Unfortunatly The Linux version is not updated to v0.3.3 (you can still use v0.3.2)
+
 ------------------------------------------------------------------------------
 
 How to Download K# Programming Language :
