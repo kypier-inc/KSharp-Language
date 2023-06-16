@@ -16,27 +16,16 @@ head to [Wiki](https://github.com/syllicasoftware/KSharp-Language/wiki)
 
 ----------------------------------------------------------------------------
 
-Versions :
+Download For Windows : [Download Here](https://github.com/kypier-inc/KSharp-Language/releases/download/v0.3.3/KSharp.exe)
 
-v0.1.0 
-<br />
---- [Download Here](https://github.com/syllicasoftware/KSharp-Language/releases/download/v0.1.0/KSharp-0.1.0.tar.gz) ---
-<br />
-
-v0.2.0
-<br />
---- [Download Here](https://github.com/syllicasoftware/KSharp-Language/releases/download/v0.2.0/KSharp-0.2.0.tar.gz) ---
-<br />
-
-v0.3.0
-<br />
---- [Download Here](https://github.com/syllicasoftware/KSharp-Language/releases/download/v0.3.0/KSharp-0.3.0.tar.gz) ---
+Download For Linux : [Download Here](https://github.com/kypier-inc/KSharp-Language/releases/download/v0.3.2/KSharp-0.3.2.tar.gz)
 
 ------------------------------------------------------------------------------
 
 How to Download K# Programming Language :
 
 Windows :
+
 1.Download KSharp.exe and run :)
 
 Linux :
