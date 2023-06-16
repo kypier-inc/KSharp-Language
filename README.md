@@ -33,6 +33,7 @@ Windows :
 Linux :
 
 1.Download Tar.gz and Extract it
+<br />
 2.Run KSharp through Terminal by typing KSharp
 
 
